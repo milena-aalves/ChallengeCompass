@@ -1,0 +1,2 @@
+Dia 5
+No quinto dia, finalizei o curso "Início Rápido em Teste e QA" pela Udemy e explorei os materiais complementares disponibilizados. Assim tive uma compreensão melhor sobre a profissão tester e QA.

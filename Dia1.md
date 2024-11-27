@@ -1,0 +1,2 @@
+Dia 1
+ No primeiro dia de aula, revisei conceitos importantes sobre Git, GitLab e GitHub, ferramentas essenciais para versionamento e colaboração. Também assisti a vídeos que aprofundaram meu entendimento sobre a criação e utilização de arquivos README, especialmente para destacar projetos em portfólios de forma organizada e profissional.

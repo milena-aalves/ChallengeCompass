@@ -1,0 +1,2 @@
+Dia 2
+No segundo dia, concluí o curso "Fundamentos do SCRUM Agile | Rápido e Prático" pela Udemy, onde aprendi os conceitos básicos do Scrum, o papel do Scrum Master e as principais metodologias associadas. Obtive uma visão sobre o funcionamento do framework e sua aplicação prática em equipes ágeis.
